@@ -1,6 +1,6 @@
 # Suomi
 
-Official colours of National Flag of Finland
+Official colours of National Flag of Suomi (Finland)
 
 HEX Colour Codes:
 
