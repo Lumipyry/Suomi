@@ -1,6 +1,6 @@
 # Suomi
 
-Official colours of National flag of Finland
+Official colours of National Flag of Finland
 
 HEX Colour Codes:
 blue = 134483
