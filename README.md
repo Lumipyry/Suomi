@@ -2,6 +2,6 @@
 
 Official colours of Finnish National Flag
 
-HEX Colours Codes:
+HEX Colour Codes:
 blue = 134483
 white = ffffff
